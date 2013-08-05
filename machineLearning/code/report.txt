@@ -1,0 +1,28 @@
+\documentclass[12pt]{article}
+\usepackage{mathptmx}
+\title{CS725 Data Mining Contest Report}
+\author{Sai Teja Pratap : 09005057}
+\begin{document}
+\maketitle
+\section{Team details: \textit{Bast}}
+	\begin{itemize}
+		\item 09005050 Bhanu Prakash
+		\item 09005056 Avinash
+		\item 09005057 Sai Teja Pratap
+		\item 09005068 Tarun
+	\end{itemize}
+
+
+\section{Abstract}
+The data set is too hug
+\section{Data Preprocessing}
+\section{Feature Engineering}
+\section{ML Algorithms}
+\section{Post Processing}
+\section{Graphs/Plots}
+\section{Out-of-Class Efforts}
+\section{Code Structure}
+\section{Unfinished Efforts}
+
+\end{document}
+
